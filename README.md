@@ -1,4 +1,7 @@
-# V-for-Exccel-Wilayah
+<div>
+  <img src="https://camo.githubusercontent.com/3c0b054a8de90e002d439d60011f23cfbbcb2f385723bbc76cf371a9628e236c/68747470733a2f2f7777772e706e676d6172742e636f6d2f66696c65732f342f562d466f722d56656e64657474612d5472616e73706172656e742d4261636b67726f756e642e706e67" alt="Vendetta-C-Kali logo" width="200" align="left">
+  <h1>V-for-Exccel-Wilayah</h1>
+</div>
 
 Rumus yang diberikan digunakan untuk mengisi kolom G secara otomatis dengan nama file yang memuat teks yang sesuai di kolom F. Ini dapat berguna jika Anda ingin mencari teks tertentu di file-file teks yang ada dalam folder Document.
 
